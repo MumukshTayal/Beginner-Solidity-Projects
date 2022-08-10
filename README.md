@@ -1,2 +1,2 @@
 # Solidity-Projects
-All solidity smart contracts.
+Solidity smart contracts for practice.
