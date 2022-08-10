@@ -57,7 +57,6 @@ contract FlightDelayInsurance{
     mapping(address => string) airlineName;
     
     /*
-        An enum that define the reason of a flight delay
         None : flight is not delayed
         Canceled : flight is canceled
     */
